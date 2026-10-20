@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&height=220&section=header&text=ALSON%20M.A.&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=13&animation=fadeIn" width="100%" alt="Purple gradient animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&height=220&section=header&text=ALSON%20M.A&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=13&animation=fadeIn" width="100%" alt="Purple gradient animated header"/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Engineering+Reliable+Full+Stack+Applications;Exploring+AI%2C+Machine+Learning+%26+Automation;Turning+Complex+Problems+Into+Clean+Code;Learning.+Building.+Improving.+Repeating." alt="Typing SVG animation"/></a>
 
@@ -21,9 +21,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=7C3AED&label=TOTAL+STARS" alt="GitHub stars"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=alsonma&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/> -->
+<img src="https://img.shields.io/github/followers/alsonma?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/alsonma?style=flat-square&color=7C3AED&label=TOTAL+STARS" alt="GitHub stars"/>
 
 </div>
 
@@ -63,7 +63,7 @@ My approach combines practical implementation with an understanding of how softw
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,redux,vite,bootstrap&theme=dark" alt="Frontend technologies"/>
 
 ### Backend & Databases
 
@@ -90,26 +90,9 @@ My approach combines practical implementation with an understanding of how softw
 
 ---
 
-## 03. AI / ML Expertise
 
-My AI / ML roadmap focuses on developing the mathematical, programming, and practical foundations required to build intelligent applications and integrate AI capabilities into full-stack products.
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Python for AI | Learning | Python syntax, functions, data structures, and problem-solving |
-| Data Analysis | Learning | Data cleaning, transformation, and exploratory analysis |
-| Mathematics for ML | Learning | Linear algebra, probability, statistics, and optimization fundamentals |
-| Machine Learning | Exploring | Supervised learning, unsupervised learning, model evaluation |
-| Deep Learning | Exploring | Neural network fundamentals and representation learning |
-| Generative AI | Exploring | LLM concepts, prompt design, and AI-powered application workflows |
-| AI Integration | Exploring | Connecting intelligent services to web applications and APIs |
-| Model Deployment | Exploring | Understanding inference endpoints, application integration, and production considerations |
-
-*Proficiency labels describe the intended learning areas, not independently verified professional credentials.*
-
----
-
-## 04. Featured Projects
+## 03. Featured Projects
 
 ### Selected Engineering Work
 
@@ -247,7 +230,7 @@ A strong portfolio should demonstrate not only visual design but also technical 
 
 ---
 
-## 05. Experience
+## 04. Experience
 
 ### Software Engineering & Full Stack Development
 
@@ -276,7 +259,7 @@ Developing practical software engineering skills through project-based learning,
 
 ---
 
-## 06. Achievements
+## 05. Achievements
 
 <div align="center">
 
@@ -294,19 +277,7 @@ Developing practical software engineering skills through project-based learning,
 
 ---
 
-## 07. Certifications
 
-### AWS
-
-<a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Certification%20Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS certification resources"/></a>
-
-Explore cloud fundamentals, application deployment, and cloud architecture certifications.
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification"><img src="https://img.shields.io/badge/Oracle-Certification%20Path-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle certification resources"/></a>
-
-Explore database technologies, SQL, and Oracle cloud certifications.
 
 ### NPTEL
 
@@ -314,83 +285,63 @@ Explore database technologies, SQL, and Oracle cloud certifications.
 
 Explore computer science, programming, algorithms, and engineering courses.
 
-### Cisco
 
-<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy"/></a>
-
-Explore networking, cybersecurity, and infrastructure learning paths.
 
 *These links lead to official certification and learning resources. No certification is claimed here unless independently earned and verified.*
 
 ---
 
-## 08. Coding Profiles
 
-<div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Coding%20Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-
-</div>
-
-**Current objective:** Strengthen algorithmic thinking, complexity analysis, data structures, and the ability to explain solutions clearly.
-
----
-
-## 09. GitHub Analytics
+## 07. GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alsonma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alsonma&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsonma&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
 </a>
 
 </div>
 
 ---
 
-## 10. GitHub Trophies
+## 08. GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alsonma&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies"/>
 
 </div>
 
 ---
 
-## 11. Contribution Activity
+## 09. Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alsonma&bg_color=0D1117&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 </a>
 
 </div>
 
 ---
 
-## 12. Contribution Snake
+## 10. Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/alsonma/alsonma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -398,7 +349,7 @@ Explore networking, cybersecurity, and infrastructure learning paths.
 
 ---
 
-## 13. Current Focus
+## 11. Current Focus
 
 ```yaml
 profile:
@@ -443,7 +394,7 @@ open_to:
 
 ---
 
-## 14. Connect
+## 12. Connect
 
 <div align="center">
 
@@ -455,7 +406,7 @@ open_to:
 
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/alsonma"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <a href="https://alson-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
@@ -463,7 +414,6 @@ open_to:
 
 ---
 
-## 15. Footer
 
 <div align="center">
 
