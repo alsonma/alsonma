@@ -315,41 +315,35 @@ Explore computer science, programming, algorithms, and engineering courses.
 
 ---
 
-## 08. GitHub Trophies
 
-<div align="center">
+## 08. Contribution Snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=alsonma&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies"/>
 
-</div>
+<h2 align="center">🐍 Contribution Snake</h2>
 
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/alsonma/alsonma/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/alsonma/alsonma/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/alsonma/alsonma/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
-## 09. Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alsonma&bg_color=0D1117&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-</a>
-
-</div>
-
----
-
-## 10. Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alsonma/alsonma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
 
 *Enable the contribution snake by configuring a GitHub Actions workflow that generates and publishes the SVG to the `output` branch.*
 
 ---
 
-## 11. Current Focus
+## 09. Current Focus
 
 ```yaml
 profile:
@@ -394,7 +388,7 @@ open_to:
 
 ---
 
-## 12. Connect
+## 10. Connect
 
 <div align="center">
 
@@ -402,9 +396,9 @@ open_to:
 
 <br/>
 
-<a href="mailto:"><img src="https://img.shields.io/badge/Gmail-Professional%20Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:alsonma4022@gmail.com"><img src="https://img.shields.io/badge/Gmail-Professional%20Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/alson-m-a"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://github.com/alsonma"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
