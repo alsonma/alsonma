@@ -317,10 +317,6 @@ Explore computer science, programming, algorithms, and engineering courses.
 
 
 ## 08. Contribution Snake
-
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source
@@ -337,9 +333,6 @@ Explore computer science, programming, algorithms, and engineering courses.
     />
   </picture>
 </p>
-
-
-*Enable the contribution snake by configuring a GitHub Actions workflow that generates and publishes the SVG to the `output` branch.*
 
 ---
 
