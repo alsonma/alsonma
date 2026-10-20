@@ -398,7 +398,7 @@ open_to:
 
 <a href="mailto:alsonma4022@gmail.com"><img src="https://img.shields.io/badge/Gmail-Professional%20Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="https://www.linkedin.com/alson-m-a"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/m-a-alson"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://github.com/alsonma"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
